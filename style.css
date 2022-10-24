@@ -495,4 +495,10 @@ button:active {
 nav ul {
     cursor: pointer;
 }
-
+.hovering {
+    transition: .4s, color .4s, background-color .4s;
+}
+.hovering:hover {
+    background-color: #fff;
+    color: #F58A07;
+}
