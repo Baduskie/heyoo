@@ -410,7 +410,7 @@ footer::after {
 }
 .dominator {
     width: 50%;
-    background-image: url(/images/home/10th.png);
+    background-image: url(../images/home/10th.png);
     background-size: cover;
 }
 .fifty {
