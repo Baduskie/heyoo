@@ -151,6 +151,7 @@ article {
 .padleft {
     padding-left: 40px;
 }
+
 /* Flex */
 
 .row {
@@ -193,6 +194,7 @@ article {
 .inl-b{
     display: inline-block;
 }
+
 /* Sizes */
 
 .caption{
@@ -271,7 +273,6 @@ p {
 article {
     position: relative;
 }
-
 /* YT playbut */
 
 .e {
